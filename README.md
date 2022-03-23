@@ -37,6 +37,7 @@ yarn add electron-splashscreen
 <a name="npm"/>
 
 ### NPM
+test
 
 ```
 npm i electron-splashscreen
