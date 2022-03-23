@@ -44,7 +44,7 @@ npm i electron-splashscreen
 ```
 test3
 ## Example
-
+master-test
 ```jsx
 import { initSplashScreen, Office } from 'electron-splashscreen';
 import isDev from 'electron-is-dev';
