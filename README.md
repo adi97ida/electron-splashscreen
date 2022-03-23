@@ -42,7 +42,7 @@ test
 ```
 npm i electron-splashscreen
 ```
-
+test3
 ## Example
 
 ```jsx
